@@ -6,7 +6,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Notes/DailyNotes/{{DATE:YYYY-MM-DD_dddd}}",
+      "captureTo": "Notes/DailyNotes/{{DATE:YYYY-MM-DD}}",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -16,14 +16,14 @@
       },
       "format": {
         "enabled": true,
-        "format": "- **{{time}}** {{value}}"
+        "format": "- **{{time}}** {{value}}\n"
       },
       "insertAfter": {
         "enabled": true,
         "after": "## Daily Log",
         "insertAtEnd": false,
         "considerSubsections": false,
-        "createIfNotFound": false,
+        "createIfNotFound": true,
         "createIfNotFoundLocation": "top"
       },
       "newLineCapture": {

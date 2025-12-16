@@ -11,42 +11,10 @@
             "id": "01ac7514e0fc4063",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bins/Templates/Daily Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daily Note"
-            }
-          },
-          {
-            "id": "eccc20497bb45ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/DailyNotes/2025-12-16_星期二.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-16_星期二"
-            }
-          },
-          {
-            "id": "891aa7f8719fa9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/DailyNotes/2025-12-16_星期二.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-16_星期二"
+              "title": "新标签页"
             }
           }
         ]
@@ -102,8 +70,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,13 +160,33 @@
               "icon": "lucide-list",
               "title": "oepn系统调用 的大纲"
             }
+          },
+          {
+            "id": "6c9ce78f53405b51",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "db99178aacaddec9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,13 +202,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01ac7514e0fc4063",
+  "active": "6c9ce78f53405b51",
   "lastOpenFiles": [
+    "Notes/10-Daily/2025-12-16.md",
+    "Notes/20-Weekly/2025-W51.md",
+    "Notes/30-Monthly/2025-12.md",
+    "2025-12.md",
+    "Notes/10-Daily/未命名.md",
+    "Bins/Templates/Daily Note.md",
+    "Bins/Templates/Test note.md",
+    "Notes/10-Daily/2025-10-14.md",
+    "Notes/10-Daily/2025-10-14.md",
+    "Bins/Templates/Monthly Note.md",
+    "Notes/20-Weekly/未命名.md",
+    "Bins/Templates/Weekly Note.md",
+    "Notes/WeeklyNotes/2025-W41.md",
+    "2025-10.md",
+    "Notes/DailyNotes/2025-12-17.md",
+    "📅 Monthly.md",
+    "Notes/WeeklyNotes/2025-W51.md",
+    "Notes/30-Monthly",
+    "Notes/20-Weekly",
+    "Notes/DailyNotes/未命名",
+    "2025-w51.md",
+    "2025-12-17.md",
     "Notes/DailyNotes/2025-12-16_星期二.md",
     "未命名.canvas",
-    "Bins/Templates/Daily Note.md",
     "DailyNotes/DailyNotes/2025-12-16.md",
-    "Notes/DailyNotes",
+    "Notes/10-Daily",
     "DailyNotes/Daily Notes/2025-12-15.md",
     "DailyNotes/Daily Notes/2025-12-16.md",
     "DailyNotes/Daily Notes/2025-12-17.md",
@@ -229,18 +237,9 @@
     "DailyNotes/Daily Notes/2025-12-18.md",
     "DailyNotes/Daily Notes",
     "未命名.base",
-    "System/posix错误码.md",
     "Bins/Templates",
     "Bins",
     "System",
-    "Notes",
-    "poll系统调用/未命名.md",
-    "System/poll系统调用/Linux SYS_POLL 系统调用深度分析报告.md",
-    "System/open系统调用/DragonOS SYS_OPEN系统调用：问题分析与修复报告.md",
-    "System/poll系统调用",
-    "oepn分析报告.md",
-    "Linux SYS_OPEN系统调用深度分析报告.md",
-    "oepn系统调用.md",
-    "欢迎.md"
+    "Notes"
   ]
 }

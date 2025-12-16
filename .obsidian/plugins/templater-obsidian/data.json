@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Notes/20-Weekly",
+      "template": "Bins/Templates/Weekly Note.md"
+    },
+    {
+      "folder": "Notes/10-Daily",
+      "template": "Bins/Templates/Daily Note.md"
+    },
+    {
+      "folder": "Notes/30-Monthly",
+      "template": "Bins/Templates/Monthly Note.md"
     }
   ],
   "enable_file_templates": false,

@@ -1,23 +1,24 @@
 {
   "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY-MM-DD",
+    "folder": "Notes/10-Daily",
     "template": "Bins/Templates/Daily Note.md",
-    "folder": "DailyNotes",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "template": "Bins/Templates/Weekly Note.md",
+    "folder": "Notes/20-Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Bins/Templates/Monthly Note.md",
+    "folder": "Notes/30-Monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",

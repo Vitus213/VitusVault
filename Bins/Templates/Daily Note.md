@@ -1,7 +1,8 @@
 ---
 week: <% tp.date.now('ww',0, tp.file.title, 'YYYY-MM-DD') %>
 fellings:
-tags: daily
+tags:
+  - review/daily
 ---
 
 <% tp.web.daily_quote() %>
@@ -16,9 +17,16 @@ type command
 action QuickAdd: Capture to daily note
 color default
 ```
-^button-rjgc
-[[2025-12-16]]
+
 ## Daily Log
+
+
+## TODO
+### Study
+
+
+
+### Work
 
 
 ## [[Tasks Dashboard |Tasks]]
@@ -57,24 +65,29 @@ color default
 > short mode
 > ```
 
-## 5 Minute Journal
+# 📅 {{date}}
 
-### 🌞
-**3 things I am grateful for...**
-1. 
+> [!sun] Morning
+> **3 things I am grateful for...**
+> 1. 
+> 2. 
+> 3. 
+>
+> **What will I do to make today great?**
+> - [ ] 
+> - [ ] 
+>
+> **Daily affirmations**
+> - 
 
-**What will I do to make today great?**
-- 
-
-**Daily affirmations**
-
-
-### 🌚
-**What were the highlights from your day?**
-1. 
-
-**How could I have made today even better?**
-
+> [!moon] Evening
+> **What were the highlights from your day?**
+> 1. 
+> 2. 
+> 3. 
+>
+> **How could I have made today even better?**
+> -
 
 ## Today's Notes
 
