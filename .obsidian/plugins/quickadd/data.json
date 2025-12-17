@@ -6,7 +6,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Notes/DailyNotes/{{DATE:YYYY-MM-DD}}",
+      "captureTo": "Notes/10-Daily/{{DATE:YYYY-MM-DD}}",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
