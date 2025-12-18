@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/10-Daily/2025-12-17.md",
+                "file": "Notes/10-Daily/2025-12-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-17"
+              "title": "2025-12-18"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oepn系统调用.md",
+                "file": "Notes/10-Daily/2025-12-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "oepn系统调用 的大纲"
+              "title": "2025-12-18 的大纲"
             }
           },
           {
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,11 +223,14 @@
   },
   "active": "961886479f561493",
   "lastOpenFiles": [
-    "Notes/10-Daily/2025-12-16.md",
+    "Bins/Templates/Daily Note.md",
+    "Notes/10-Daily/2025-12-18.md",
+    "System/poll系统调用/Linux SYS_POLL 系统调用深度分析报告.md",
+    "System/posix错误码.md",
     "Notes/10-Daily/2025-12-17.md",
+    "Notes/10-Daily/2025-12-16.md",
     "Notes/DailyNotes/2025-12-17.md",
     "Notes/DailyNotes",
-    "Bins/Templates/Daily Note.md",
     "Notes/20-Weekly/2025-W51.md",
     "Notes/30-Monthly/2025-12.md",
     "2025-12.md",
@@ -252,9 +255,6 @@
     "DailyNotes/DailyNotes/2025-12-16.md",
     "Notes/10-Daily",
     "DailyNotes/Daily Notes/2025-12-15.md",
-    "DailyNotes/Daily Notes/2025-12-16.md",
-    "DailyNotes/Daily Notes/2025-12-17.md",
-    "DailyNotes/2025-12-15.md",
     "DailyNotes/Daily Notes",
     "未命名.base",
     "Bins/Templates",

@@ -65,6 +65,13 @@ color default
 > short mode
 > ```
 
+## 🧠 Tech Insights
+> [!tip] 每日技术沉淀 
+> 
+
+
+
+
 # 📅 {{date}}
 
 > [!sun] Morning
