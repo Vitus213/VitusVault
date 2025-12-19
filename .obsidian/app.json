@@ -1,4 +1,7 @@
 {
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
