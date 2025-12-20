@@ -3,5 +3,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "./",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "autoConvertHtml": false
 }

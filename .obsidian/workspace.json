@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +229,6 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
@@ -239,6 +239,8 @@
   "lastOpenFiles": [
     "Notes/10-Daily/2025-12-19.md",
     "Notes/10-Daily/2025-12-20.md",
+    "System/poll系统调用/poll_fix_report.md",
+    "System/poll系统调用/poll_fix.md",
     "Notes/10-Daily/2025-12-18.md",
     "Bins/Templates/Daily Note.md",
     "System/poll系统调用/Linux SYS_POLL 系统调用深度分析报告.md",
@@ -265,8 +267,6 @@
     "Notes/20-Weekly",
     "Notes/DailyNotes/未命名",
     "2025-w51.md",
-    "2025-12-17.md",
-    "Notes/DailyNotes/2025-12-16_星期二.md",
     "未命名.canvas",
     "Notes/10-Daily",
     "DailyNotes/Daily Notes",
