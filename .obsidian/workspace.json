@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/10-Daily/2025-12-20.md",
+                "file": "Notes/10-Daily/2025-12-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-20"
+              "title": "2025-12-22"
             }
           }
         ],
@@ -237,8 +237,9 @@
   },
   "active": "73df19edbaf1b996",
   "lastOpenFiles": [
-    "Notes/10-Daily/2025-12-19.md",
     "Notes/10-Daily/2025-12-20.md",
+    "Notes/10-Daily/2025-12-22.md",
+    "Notes/10-Daily/2025-12-19.md",
     "System/poll系统调用/poll_fix_report.md",
     "System/poll系统调用/poll_fix.md",
     "Notes/10-Daily/2025-12-18.md",
@@ -266,7 +267,6 @@
     "Notes/30-Monthly",
     "Notes/20-Weekly",
     "Notes/DailyNotes/未命名",
-    "2025-w51.md",
     "未命名.canvas",
     "Notes/10-Daily",
     "DailyNotes/Daily Notes",
