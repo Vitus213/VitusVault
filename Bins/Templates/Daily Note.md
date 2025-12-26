@@ -21,13 +21,6 @@ color default
 ## Daily Log
 
 
-## TODO
-### Study
-
-
-
-### Work
-
 
 ## [[Tasks Dashboard |Tasks]]
 

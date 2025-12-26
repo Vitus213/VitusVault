@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01ac7514e0fc4063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/10-Daily/2025-12-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-16"
-            }
-          },
-          {
             "id": "961886479f561493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/10-Daily/2025-12-18.md",
+                "file": "Notes/10-Daily/2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-18"
+              "title": "2025-12-26"
             }
           },
           {
@@ -62,9 +48,20 @@
               "icon": "lucide-file",
               "title": "SA必背点"
             }
+          },
+          {
+            "id": "0557da9b117770c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +211,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -224,8 +221,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -238,7 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -246,27 +242,29 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "512752a423e1956e",
+  "active": "961886479f561493",
   "lastOpenFiles": [
-    "Notes/10-Daily/2025-12-24.md",
+    "Bins/Templates/Daily Note.md",
+    "Notes/10-Daily/2025-12-26.md",
     "Notes/10-Daily/2025-12-25.md",
-    "Notes/10-Daily/2025-12-20.md",
-    "复习/SA必背点.md",
-    "复习",
+    "Notes/10-Daily/2025-12-18.md",
+    "Notes/10-Daily/2025-12-16.md",
     "Notes/10-Daily/2025-12-23.md",
+    "复习/SA必背点.md",
+    "Notes/10-Daily/2025-12-24.md",
+    "Notes/10-Daily/2025-12-20.md",
+    "复习",
     "Notes/10-Daily/2025-12-22.md",
     "Notes/10-Daily/2025-12-19.md",
     "System/poll系统调用/poll_fix_report.md",
     "System/poll系统调用/poll_fix.md",
-    "Notes/10-Daily/2025-12-18.md",
-    "Bins/Templates/Daily Note.md",
     "System/poll系统调用/Linux SYS_POLL 系统调用深度分析报告.md",
     "System/posix错误码.md",
     "Notes/10-Daily/2025-12-17.md",
-    "Notes/10-Daily/2025-12-16.md",
     "Notes/DailyNotes/2025-12-17.md",
     "Notes/DailyNotes",
     "Notes/20-Weekly/2025-W51.md",
@@ -278,7 +276,6 @@
     "Notes/10-Daily/2025-10-14.md",
     "Bins/Templates/Monthly Note.md",
     "Notes/20-Weekly/未命名.md",
-    "Bins/Templates/Weekly Note.md",
     "Notes/30-Monthly",
     "Notes/20-Weekly",
     "Notes/DailyNotes/未命名",
