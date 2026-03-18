@@ -64,31 +64,6 @@ color default
 
 
 
-
-# 📅 {{date}}
-
-> [!sun] Morning
-> **3 things I am grateful for...**
-> 1. 
-> 2. 
-> 3. 
->
-> **What will I do to make today great?**
-> - [ ] 
-> - [ ] 
->
-> **Daily affirmations**
-> - 
-
-> [!moon] Evening
-> **What were the highlights from your day?**
-> 1. 
-> 2. 
-> 3. 
->
-> **How could I have made today even better?**
-> -
-
 ## Today's Notes
 
 > [!example]- Created Today
