@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/面试清单.md",
+                "file": "暑期实习/云架构平台-后台开发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试清单"
+              "title": "云架构平台-后台开发"
             }
           },
           {
@@ -285,18 +285,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "79ed95441ae59c9d",
   "lastOpenFiles": [
+    "System/面试清单.md",
+    "暑期实习/云架构平台-后台开发.md",
+    "暑期实习",
     "Notes/10-Daily/2026-03-18.md",
     "Notes/10-Daily/2025-12-24.md",
     "Notes/10-Daily/2025-12-16.md",
     "Bins/Templates/Daily Note.md",
     "Notes/10-Daily/2026-03-15.md",
-    "System/面试清单.md",
     "Good/容器运行时_学习笔记.md",
     "Good/OCI规范_学习笔记.md",
     "Good/BlogWatchlist.md",
@@ -317,7 +319,6 @@
     "Notes/10-Daily/2025-12-18.md",
     "Notes/10-Daily/2025-12-23.md",
     "复习/SA必背点.md",
-    "Notes/10-Daily/2025-12-20.md",
     "复习",
     "Notes/DailyNotes",
     "Notes/30-Monthly",
@@ -326,7 +327,6 @@
     "未命名.canvas",
     "Notes/10-Daily",
     "DailyNotes/Daily Notes",
-    "未命名.base",
-    "Bins/Templates"
+    "未命名.base"
   ]
 }
