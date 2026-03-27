@@ -1,4 +1,4 @@
-# AI Coding 方法论对比：BeatAI vs《AI Coding 工程实践经验》
+ AI Coding 方法论对比：BeatAI vs《AI Coding 工程实践经验》
 
 > 对比对象：
 >
