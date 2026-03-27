@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/10-Daily/2025-12-26.md",
+                "file": "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-26"
-            }
-          },
-          {
-            "id": "dd5b77c69c07deb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "暑期实习/脚本/faasd_interview_guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "faasd_interview_guide"
+              "title": "腾讯-云架平-后台开发-一面-问题整理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,44 +206,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd5b77c69c07deb4",
+  "active": "961886479f561493",
   "lastOpenFiles": [
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-分析复盘清单.md",
+    "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-一面-面后复盘.md",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-帖子版.md",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-复盘与突击清单.md",
+    "暑期实习/面试录音复盘/社区业务线-Agent化-AI-Coding-面经文章版.md",
+    "暑期实习/面经/腾讯-云架平-后台开发-一面-帖子版.md",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
+    "暑期实习/面经/腾讯-云架平-后台开发-一面-复盘与突击清单.md",
+    "暑期实习/面经/腾讯-云架平-后台开发-一面-问题整理.md",
+    "暑期实习/面经/社区业务线-Agent化-AI-Coding-面经文章版.md",
+    "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-二面前突击清单.md",
+    "暑期实习/面经/云架构平台-后台开发.md",
+    "暑期实习/面经/华为AI Infra.md",
+    "暑期实习/面经/小红书-社区工程.md",
+    "暑期实习/面经/蚂蚁集团.md",
+    "暑期实习/脚本/faasd_interview_guide.md",
+    "暑期实习/脚本/loop_interview_guide.md",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面.txt",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面",
+    "暑期实习/面试录音复盘/。",
     "暑期实习/脚本/faas.md",
     "暑期实习/脚本/Claude Code 最佳实践指南（BeatAI·整理版）.md",
     "暑期实习/脚本/cgroup_v2_interview_guide.md",
-    "暑期实习/脚本/faasd_interview_guide.md",
-    "暑期实习/脚本/loop_interview_guide.md",
     "暑期实习/脚本/task_struct.md",
     "暑期实习/脚本/AI Coding 工程实践经验.md",
     "暑期实习/脚本/AI Coding 方法论对比：BeatAI vs 工程实践经验.md",
     "Notes/10-Daily/2025-12-28.md",
     "Notes/10-Daily/2025-12-23.md",
     "Notes/10-Daily/2026-03-15.md",
-    "暑期实习/面经/小红书-社区工程.md",
-    "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-一面-面后复盘.md",
-    "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-二面前突击清单.md",
-    "面试录音复盘.md",
     "暑期实习/面试录音复盘",
-    "暑期实习/脚本/docs/superpowers/plans/2026-03-26-claude-code-guide-integration.md",
     "暑期实习/脚本/docs/superpowers/plans",
-    "暑期实习/脚本/docs/superpowers/specs/2026-03-26-claude-code-guide-integration-design.md",
     "暑期实习/脚本/docs/superpowers/specs",
     "暑期实习/脚本/docs/superpowers",
     "暑期实习/脚本/docs",
-    "暑期实习/面经/云架构平台-后台开发.md",
-    "暑期实习/脚本/Claude Code 最佳实践指南（BeatAI）.md",
-    "暑期实习/面经/华为AI Infra.md",
-    "暑期实习/面经/蚂蚁集团.md",
     "暑期实习/脚本",
     "暑期实习/面经",
-    "暑期实习/未命名.md",
-    "System/面试清单.md",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-main-branch-code-review/SKILL.md",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-linux66-code-research/SKILL.md",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-feature-solution-design/SKILL.md",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-main-branch-code-review",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-linux66-code-research",
-    "Good/dragonos-feature-development-orchestrator/subskills/dragonos-feature-solution-design",
     "未命名.canvas"
   ]
 }
