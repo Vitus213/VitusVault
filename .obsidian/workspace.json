@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "暑期实习/脚本/随笔.md",
+=======
+                "file": "暑期实习/脚本/task_struct.md",
+>>>>>>> 4caf509 (update)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "随笔"
+=======
+              "title": "task_struct"
+>>>>>>> 4caf509 (update)
             }
           }
         ]
@@ -208,6 +216,7 @@
   },
   "active": "961886479f561493",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "暑期实习/脚本/rust_question.md",
     "暑期实习/脚本/faas.md",
     "暑期实习/脚本/随笔.md",
@@ -229,6 +238,9 @@
     "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.00.rcgu.o",
     "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.11.rcgu.o",
     "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.10.rcgu.o",
+=======
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
+>>>>>>> 4caf509 (update)
     "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
     "artifacts/bug-hunter-rerun/pipeline/bug_hunter_report.md",
