@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/脚本/rust.md",
+                "file": "暑期实习/脚本/操作系统八股.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust"
+              "title": "操作系统八股"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暑期实习/脚本/rust.md",
+                "file": "暑期实习/脚本/loop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "rust 的反向链接列表"
+              "title": "loop 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "暑期实习/脚本/rust.md",
+                "file": "暑期实习/脚本/loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "rust 的出链列表"
+              "title": "loop 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暑期实习/脚本/rust.md",
+                "file": "暑期实习/脚本/loop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "rust 的大纲"
+              "title": "loop 的大纲"
             }
           },
           {
@@ -197,14 +197,27 @@
   },
   "active": "1bc9a4601fde30fe",
   "lastOpenFiles": [
+    "暑期实习/脚本/随笔.md",
+    "暑期实习/脚本/操作系统八股.md",
+    "暑期实习/脚本/未命名",
+    "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph/work-products.bin",
+    "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph/query-cache.bin",
+    "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph/dep-graph.bin",
+    "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph",
+    "faasd-in-rust/target/debug/deps/libgateway-e39fb4b5560f54c1.rmeta",
+    "faasd-in-rust/target/debug/incremental/gateway-3oy4y46k2yvqs/s-hh7a7r5c7e-03kfb01-8kxb26g4nx3vi1c9vy9ci3v88/work-products.bin",
+    "faasd-in-rust/target/debug/incremental/gateway-3oy4y46k2yvqs/s-hh7a7r5c7e-03kfb01-8kxb26g4nx3vi1c9vy9ci3v88/query-cache.bin",
+    "faasd-in-rust/target/debug/incremental/gateway-3oy4y46k2yvqs/s-hh7a7r5c7e-03kfb01-8kxb26g4nx3vi1c9vy9ci3v88/metadata.rmeta",
+    "faasd-in-rust/target/debug/incremental/gateway-3oy4y46k2yvqs/s-hh7a7r5c7e-03kfb01-8kxb26g4nx3vi1c9vy9ci3v88/dep-graph.bin",
+    "暑期实习/脚本/loop.md",
+    "暑期实习/脚本/task_struct.md",
     "暑期实习/脚本/rust.md",
-    "暑期实习/脚本/rust.md",
+    "暑期实习/脚本/cgroup.md",
     "暑期实习/脚本/faas.md",
     "暑期实习/脚本/Claude Code 最佳实践指南（BeatAI·整理版）.md",
     "暑期实习/脚本/cgroup_v2_interview_guide.md",
     "System/cgroup.md",
     "System/cgroup-v2.md",
-    "暑期实习/脚本/faasd_interview_guide.md",
-    "暑期实习/脚本/cgroup.md"
+    "暑期实习/脚本/faasd_interview_guide.md"
   ]
 }
