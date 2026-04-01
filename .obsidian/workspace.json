@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/脚本/rust_question.md",
+                "file": "暑期实习/脚本/随笔.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust_question"
+              "title": "随笔"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "358be445f136e5f0",
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,48 +202,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "961886479f561493",
   "lastOpenFiles": [
-    "暑期实习/脚本/rust_question.md.tmp.111909.1774980548508",
-    "未命名 1.base",
-    "未命名.base",
-    "未命名 2.base",
     "暑期实习/脚本/rust_question.md",
-    "暑期实习/脚本/rust_question.md.tmp.62775.1774972252676",
     "暑期实习/脚本/faas.md",
-    "暑期实习/脚本/cgroup_v2_interview_guide.md",
+    "暑期实习/脚本/随笔.md",
+    "暑期实习/脚本/faasd_interview_guide.md",
     "暑期实习/脚本/Claude Code 最佳实践指南（BeatAI·整理版）.md",
+    "暑期实习/脚本/cgroup_v2_interview_guide.md",
     "暑期实习/脚本/task_struct.md",
+    "暑期实习/脚本/rust.md",
     "暑期实习/脚本/loop_interview_guide.md",
-    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
-    "暑期实习/面经/云架构平台-后台开发.md",
-    "暑期实习/面经/小红书-社区工程.md",
-    "暑期实习/面经/蚂蚁集团.md",
+    "暑期实习/脚本/loop.md",
+    "暑期实习/脚本/cgroup.md",
+    "DragonOS/kernel/src/debug/kallsyms.o",
+    "DragonOS/kernel/src/kernel",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/libdragonos_kernel-bbcd199edf14b6f6.a",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/rustcsOmcc5",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.29pum8l7mlp8k40tnxuzx3cym.rcgu.o",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.01.rcgu.o",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.09.rcgu.o",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.00.rcgu.o",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.11.rcgu.o",
+    "DragonOS/kernel/target/x86_64-unknown-none/release/deps/dragonos_kernel-bbcd199edf14b6f6.dragonos_kernel.35c94e1e5e13316e-cgu.10.rcgu.o",
     "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-分析复盘清单.md",
-    "暑期实习/面经/华为AI Infra.md",
-    "System/DragonOS启动流程详解.md",
-    "System/cgroup-v2-analysis.md",
-    "System/cgroup-v2.md",
-    "System/cgroup.md",
-    "System/面试清单.md",
+    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-问题整理.md",
+    "artifacts/bug-hunter-rerun/pipeline/bug_hunter_report.md",
+    "artifacts/bug-hunter-all/pipeline-test/bug_hunter_report.md",
+    "DragonOS/docs/superpowers/specs/2026-03-28-cgroup-benchmark-design.md",
+    "artifacts/bug-hunter-all/pipeline/bug_hunter_report.md",
     "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-一面-面后复盘.md",
     "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-帖子版.md",
     "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-复盘与突击清单.md",
     "暑期实习/面试录音复盘/社区业务线-Agent化-AI-Coding-面经文章版.md",
     "暑期实习/面经/腾讯-云架平-后台开发-一面-帖子版.md",
     "暑期实习/面经/腾讯-云架平-后台开发-一面-复盘与突击清单.md",
+    "暑期实习/面经/腾讯-云架平-后台开发-一面-问题整理.md",
     "暑期实习/面经/社区业务线-Agent化-AI-Coding-面经文章版.md",
     "暑期实习/面试录音复盘/小红书-27届暑期-社区工程-二面前突击清单.md",
-    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面.txt",
-    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面",
-    "暑期实习/面试录音复盘/。",
-    "暑期实习/面试录音复盘",
-    "暑期实习/脚本/docs/superpowers/plans",
-    "暑期实习/脚本/docs/superpowers/specs",
     "未命名.canvas"
   ]
 }
