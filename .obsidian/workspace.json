@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/脚本/操作系统八股.md",
+                "file": "暑期实习/脚本/八股拷打.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统八股"
+              "title": "八股拷打"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "1bc9a4601fde30fe",
   "lastOpenFiles": [
+    "暑期实习/脚本/八股拷打~.md",
+    "Good/OCI规范_学习笔记.md",
+    "Good/BlogWatchlist.md",
+    "Good/容器运行时_学习笔记.md",
+    "暑期实习/脚本/八股拷打.md",
     "暑期实习/脚本/随笔.md",
-    "暑期实习/脚本/操作系统八股.md",
     "暑期实习/脚本/未命名",
     "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph/work-products.bin",
     "faasd-in-rust/target/debug/incremental/gateway-0syq5hpjjscr2/s-hh7a7r5c0l-135w6gt-26b50pg8pu4kor1gp8hqvnvph/query-cache.bin",
