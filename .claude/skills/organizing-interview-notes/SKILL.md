@@ -1,93 +1,93 @@
 ---
 name: organizing-interview-notes
-description: Use when the user asks to 整理面经, 复盘面试, 整理录音转写, or turn interview material into two structured markdown review documents in the VitusVault project
+description: 当用户要求整理面经、复盘面试、整理录音转写、或将面试材料整理成两份结构化复盘文档时使用此技能
 ---
 
-# Organizing Interview Notes
+# 面试笔记整理
 
-## Overview
-When the user asks to整理面经, always turn the source material into **two markdown documents** and save them under the VitusVault interview review directory.
+## 概述
+当用户要求整理面经时，始终将源材料转换为**两份 Markdown 文档**，并保存到 VitusVault 面试复盘目录下。
 
-Core rule: do not stop at a chat reply. Produce both files and write them to the expected location.
+核心规则：不要只停留在聊天回复。必须生成两个文件并写入指定位置。
 
-## When to Use
-Use this skill when the user asks for any of these outcomes:
+## 适用场景
+当用户要求以下任一结果时使用此技能：
 - 整理面经
 - 面后复盘
 - 整理面后文档
 - 根据录音/转写整理面试内容
 - 生成复盘和二面准备材料
 
-Do **not** use this skill for:
-- Generic summarization with no interview context
-- Pure Q&A answering without transcript organization
-- Cases where the user explicitly asks for only one document
+**不**适用此技能的场景：
+- 没有面试背景的通用摘要
+- 没有逐字稿组织的纯问答回答
+- 用户明确只要求一份文档的情况
 
-## Required Outputs
-Unless the user explicitly requests otherwise, always generate **both** of these:
+## 必要输出
+除非用户明确另有要求，否则始终生成**两份**文档：
 
 1. **问题整理文档**
-   - A clean interview Q&A record
-   - Include only: each interviewer question, the candidate's answer, follow-up / clarification exchanges, reverse-question section and replies
-   - Keep it factual and structured
-   - Do not mix in evaluation or study advice in this file
+   - 干净的面试问答记录
+   - 仅包含：每个面试官问题、候选人回答、追问/澄清对话、反问环节及回复
+   - 保持事实性和结构化
+   - 不要在此文件中混入评价或学习建议
 
 2. **分析复盘清单**
-   - A combined preparation document for review and next-round prep
-   - Include: overall evaluation, strengths and weaknesses, repair suggestions, learning directions, priority areas, weak points, suggested answers to rehearse, and a focused study plan
+   - 用于复盘和下一轮准备的综合性文档
+   - 包含：整体评价、优劣势分析、修补建议、学习方向、优先级领域、薄弱点、建议背诵的回答、针对性学习计划
 
-## Required Save Location
-Save both files to:
+## 保存位置
+将两份文件保存到：
 
 `~/work/VitusVault/暑期实习/面试录音复盘`
 
-Resolve this to:
+解析为：
 
 `/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
 
-Do not leave the result only in chat unless the user explicitly asks for chat-only output.
+除非用户明确要求仅聊天输出，否则不要只将结果留在聊天中。
 
-## Default File Naming
-Use clear names in this style:
+## 默认文件命名
+使用以下清晰命名风格：
 
 - `公司名-届别-岗位-轮次-问题整理.md`
 - `公司名-届别-岗位-轮次-分析复盘清单.md`
 
-Example:
+示例：
 - `小红书-27届暑期-社区工程-一面-问题整理.md`
 - `小红书-27届暑期-社区工程-一面-分析复盘清单.md`
 
-If some metadata is missing, infer conservatively from transcript/user context. Prefer stable, human-readable Chinese filenames.
+如果缺少某些元数据，从逐字稿/用户上下文中保守推断。优先使用稳定、可读的中文文件名。
 
-## Workflow
-1. 读取面试材料，一般在面试录音复盘里面的 '.txt'文件
-2. Identify interview metadata if possible:
-   - company
-   - batch/intern season
-   - role
-   - round
-3. Extract and structure:
-   - each interviewer question
-   - the candidate's answer
-   - follow-up / clarification exchanges
-   - reverse-question section and replies
-4. Produce the two markdown documents.
-5. Save both files under `/home/vitus/work/VitusVault/暑期实习/面试录音复盘`.
-6. In chat, briefly report the two output paths.
+## 工作流程
+1. 读取面试材料，一般在面试录音复盘目录下的 `.txt` 文件
+2. 尽可能识别面试元数据：
+   - 公司
+   - 届别/实习季
+   - 岗位
+   - 轮次
+3. 提取并结构化：
+   - 每个面试官问题
+   - 候选人回答
+   - 追问/澄清对话
+   - 反问环节及回复
+4. 生成两份 Markdown 文档
+5. 将两份文件保存到 `/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
+6. 在聊天中简要报告两个输出路径
 
-## Document 1 Template
-Suggested sections:
+## 文档一模板：问题整理文档
+建议章节：
 - 标题
-- 基本信息
+- 基本信息（公司、部门、岗位、轮次、时间、时长、结果）
 - 逐题整理
-  1.Dragonos与linux有什么区别
-  2.cgroup有什么别的缺陷吗
+  - 每道问题及回答
+  - 追问及回答
 - 反问环节
   - 我的问题
   - 面试官回复
 
-## Document 2 Template
-Suggested sections:
+## 文档二模板：分析复盘清单
+建议章节：
 - 标题
 - 整体结论
 - 优势与短板
@@ -104,17 +104,24 @@ Suggested sections:
   - 必背答案清单
 - 总结
 
-## Common Mistakes
-- Only replying in chat and not writing files
-- Only generating one document
-- Saving outside `~/work/VitusVault/暑期实习/面试录音复盘`
-- Producing vague summaries without question-by-question structure
-- Omitting reverse-question discussion
-- Omitting repair suggestions and learning directions
+## 参考示例
+参见 `references/` 文件夹中的完整示例：
+- `references/example-questions-document.md` - 完整的问题整理文档示例
+- `references/example-analysis-document.md` - 完整的分析复盘清单示例
 
-## Quick Reference
-- Trigger: `整理面经`
-- Output count: `2`
-- Save dir: `/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
-- Formats: `问题整理` + `分析复盘清单`
-- Final chat reply: `report saved file paths briefly`
+当需要详细了解预期输出格式时，阅读这些文件。
+
+## 常见错误
+- 只在聊天中回复而不写文件
+- 只生成一份文档
+- 保存到 `~/work/VitusVault/暑期实习/面试录音复盘` 之外的位置
+- 生成模糊的摘要，没有逐题结构
+- 遗漏反问环节讨论
+- 遗漏修补建议和学习方向
+
+## 快速参考
+- 触发词：`整理面经`
+- 输出数量：`2份`
+- 保存目录：`/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
+- 格式：`问题整理` + `分析复盘清单`
+- 最终聊天回复：`简要报告保存的文件路径`
