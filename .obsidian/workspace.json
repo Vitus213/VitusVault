@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ab008b49b6c9b853",
+    "id": "2f76d6b901ae0171",
     "type": "split",
     "children": [
       {
-        "id": "7b3b14869413ecac",
+        "id": "78efc8a9ae8789c3",
         "type": "tabs",
         "children": [
           {
-            "id": "961886479f561493",
+            "id": "1bc9a4601fde30fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/脚本/Claude Code 最佳实践指南.md",
+                "file": "暑期实习/脚本/rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code 最佳实践指南"
+              "title": "rust"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b127aaa58701449d",
+    "id": "56d2eaca4e08718a",
     "type": "split",
     "children": [
       {
-        "id": "1b2b39806e837620",
+        "id": "c4f0ba9e9c10cbe3",
         "type": "tabs",
         "children": [
           {
-            "id": "efbab73bf80afb23",
+            "id": "7f3985c92cd29ef0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "a943689251630b2c",
+            "id": "673ea013669b0e8e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task-formats",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "4b14c1a8faf3a52c",
+            "id": "aaa2be2b36504f5d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 300
   },
   "right": {
-    "id": "358be445f136e5f0",
+    "id": "e33de19f87d7b0a3",
     "type": "split",
     "children": [
       {
-        "id": "d15623666bc9cb82",
+        "id": "3931be1eaa402729",
         "type": "tabs",
         "children": [
           {
-            "id": "56b7d41159b85e52",
+            "id": "c619201db58bdf3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oepn系统调用.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "暑期实习/脚本/loop.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "oepn系统调用 的反向链接列表"
+              "title": "loop 的反向链接列表"
             }
           },
           {
-            "id": "e3f94d5b64a55e80",
+            "id": "f70e7f2de2a7b44f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oepn系统调用.md",
+                "file": "暑期实习/脚本/loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "oepn系统调用 的出链列表"
+              "title": "loop 的出链列表"
             }
           },
           {
-            "id": "555639b3206ac5e4",
+            "id": "795dd43cea35a7ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "f664c38432457dfa",
+            "id": "ad201f7ab71ed80e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,102 +151,87 @@
             }
           },
           {
-            "id": "05514e2a4ed86348",
+            "id": "e6a2f9b51a38e020",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/10-Daily/2025-12-19.md",
+                "file": "暑期实习/脚本/loop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-19 的大纲"
+              "title": "loop 的大纲"
             }
           },
           {
-            "id": "6c9ce78f53405b51",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "db99178aacaddec9",
+            "id": "882a1a871e586512",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "961886479f561493",
+  "active": "1bc9a4601fde30fe",
   "lastOpenFiles": [
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-49ftvojovoc3ng3xhoojodjlq/work-products.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-49ftvojovoc3ng3xhoojodjlq/query-cache.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-49ftvojovoc3ng3xhoojodjlq/dep-graph.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-49ftvojovoc3ng3xhoojodjlq",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-working/dep-graph.part.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-working/work-products.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-working/query-cache.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-working/dep-graph.bin",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g-working",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-3rnba86rle3pr/s-hhcxe8b42s-1gmzr9g.lock",
-    "DragonOS/kernel/target/x86_64-unknown-none/debug/build/dragonos_kernel-8354496dd13c6a42/out/stJJCnLH",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-问题整理.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AIInfra-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-二面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-二面-问题整理.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AIInfra-一面-问题整理.md",
-    "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-问题整理.md",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-e9683p6wy4gdctsgschnp9qek/work-products.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-e9683p6wy4gdctsgschnp9qek/query-cache.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-e9683p6wy4gdctsgschnp9qek/dep-graph.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-e9683p6wy4gdctsgschnp9qek",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-working/query-cache.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-working/dep-graph.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/deps/libdragonos_kernel-5f18fb6be758488d.rmeta",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/deps/rmetaO9zQO6",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/deps/dragonos_kernel-5f18fb6be758488d.d",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa-working/dep-graph.part.bin",
+    "DragonOS/kernel/target/x86_64-unknown-none/debug/incremental/dragonos_kernel-2465w5drj17xz/s-hhdydi15yw-148o0xa.lock",
+    "暑期实习/脚本/loop.md",
+    "DragonOS/loop.md",
+    "DragonOS/cgroup.md",
+    "暑期实习/脚本/loop_interview_guide.md",
+    "暑期实习/脚本/Claude Code 最佳实践指南.md",
     "暑期实习/脚本/cgroup.md",
     "暑期实习/脚本/cgroup_v2_interview_guide.md",
-    "System/posix错误码.md",
-    "System/DragonOS启动流程详解.md",
-    "暑期实习/脚本/Claude Code 最佳实践指南.md",
-    "暑期实习/脚本/faas.md",
-    "暑期实习/脚本/faasd_interview_guide.md",
-    "暑期实习/脚本/loop.md",
-    "暑期实习/脚本/loop_interview_guide.md",
     "暑期实习/脚本/rust.md",
-    "暑期实习/面经/云架构平台-后台开发.md",
     "暑期实习/脚本/八股拷打.md",
-    "System/面试清单.md",
-    "System/cgroup/cgroup.md",
-    "System/cgroup/cgroup-v2.md",
-    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-分析复盘清单.md",
+    "暑期实习/脚本/faasd_interview_guide.md",
+    "暑期实习/脚本/faas.md",
+    "DragonOS/docs/superpowers/specs/2026-03-28-cgroup-benchmark-design.md",
+    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-二面-问题整理.md",
+    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-二面-分析复盘清单.md",
+    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-问题整理.md",
+    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-分析复盘清单.md",
+    "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-问题整理.md",
+    "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-问题整理.md",
-    "暑期实习/面试录音复盘/ren.jpg.png",
-    "暑期实习/面试录音复盘/guo.png",
-    "暑期实习/面试录音复盘/20260311-162323.jpg",
-    "未命名.canvas"
+    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-分析复盘清单.md",
+    "System/cgroup/cgroup-v2.md",
+    "System/cgroup/cgroup.md",
+    "System/cgroup/cgroup-v2-analysis.md",
+    "Good/关于 Claude-Code.md",
+    "暑期实习/脚本/task_struct.md"
   ]
 }
