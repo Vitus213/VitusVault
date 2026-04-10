@@ -63,7 +63,8 @@ description: 当用户要求整理面经、复盘面试、整理录音转写、�
 
 默认保存到：
 
-`/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
+- 问题整理文档：`/home/vitus/work/VitusVault/暑期实习/面试问题整理`
+- 分析复盘清单：`/home/vitus/work/VitusVault/暑期实习/面试录音复盘`
 
 除非用户明确要求只在聊天中输出，否则不要省略写文件这一步。
 
