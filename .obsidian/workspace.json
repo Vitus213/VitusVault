@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-二面-分析复盘清单.md",
+                "file": "暑期实习/面试问题整理/vivo-27届暑期-Rust嵌入式-一面-问题整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "字节-27届暑期-国际支付后端-二面-分析复盘清单"
+              "title": "vivo-27届暑期-Rust嵌入式-一面-问题整理"
             }
           }
         ],
@@ -213,19 +213,25 @@
   },
   "active": "5cbf338a82d54cf0",
   "lastOpenFiles": [
+    "Good/vllm.md",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working/dep-graph.part.bin",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1.lock",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working/dep-graph.part.bin",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working",
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc.lock",
+    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working/dep-graph.part.bin",
+    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working",
+    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm.lock",
+    "DragonOS/kernel/target/debug/build/dragonos_kernel-920467340aebd98f/out/12473798677187629605detect_compiler_family.c",
+    "DragonOS/pr_1826_issues_fixed_report.md",
+    "Good/AI Infra.md",
+    "Good/OCI规范_学习笔记.md",
+    "暑期实习/面经/华为.md",
+    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-二面-分析复盘清单.md",
+    "暑期实习/AI Infra 速成学习文档.md",
     "暑期实习/面试录音复盘/淘天-27届暑期-AI应用研发-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/淘天-27届暑期-Agent应用研发-一面-分析复盘清单.md",
-    "DragonOS/kernel/target/debug/deps/slabmalloc-3983602c59269ffd.d",
-    "DragonOS/kernel/target/debug/incremental/slabmalloc-1yqsjuyzfxdla/s-hhlpzqlxfo-1w6wf57-working/dep-graph.part.bin",
-    "DragonOS/kernel/target/debug/incremental/slabmalloc-1yqsjuyzfxdla/s-hhlpzqlxfo-1w6wf57.lock",
-    "DragonOS/kernel/target/debug/incremental/slabmalloc-1yqsjuyzfxdla/s-hhlpzqlxfo-1w6wf57-working",
-    "DragonOS/kernel/target/debug/incremental/slabmalloc-1yqsjuyzfxdla",
-    "DragonOS/kernel/target/debug/deps/libproptest-ab9c350a144e90d1.rmeta",
-    "DragonOS/kernel/target/debug/deps/libanother_ext4-f0f493704a7e956d.rmeta",
-    "DragonOS/kernel/target/debug/deps/libjhash-94904e90aeab1783.rmeta",
-    "DragonOS/kernel/target/debug/deps/librand-b23d468f4aef5f77.rmeta",
-    "DragonOS/kernel/target/debug/deps/crc-3d36d2cc62831403.d",
-    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-二面-分析复盘清单.md",
     "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-分析复盘清单.md",
@@ -241,13 +247,6 @@
     "暑期实习/脚本/cgroup.md",
     "暑期实习/脚本/AI Coding 工程治理实践指南.md",
     "暑期实习/脚本/agent.md",
-    "Good/容器运行时_学习笔记.md",
-    "Good/关于 Claude-Code.md",
-    "Good/OCI规范_学习笔记.md",
-    "Good/AI Infra.md",
-    "暑期实习/脚本/faas.md",
-    "AGENTS.md",
-    "DragonOS/pr_1826_review_analysis.md",
-    "暑期实习/脚本/agent-rewrite-plan.md"
+    "Good/容器运行时_学习笔记.md"
   ]
 }
