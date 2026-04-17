@@ -213,6 +213,9 @@
   },
   "active": "5cbf338a82d54cf0",
   "lastOpenFiles": [
+    "暑期实习/面试录音复盘/vivo-27届暑期-rust嵌入式开发-hr面-分析复盘清单.md",
+    "暑期实习/面试问题整理/vivo-27届暑期-rust嵌入式开发-hr面-问题整理.md",
+    "暑期实习/面经/“vivo-rust 嵌入式开发-hr 面-2026-04-17 15-27-22”-转文本结果.txt",
     "Good/vllm.md",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working/dep-graph.part.bin",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working",
@@ -223,7 +226,6 @@
     "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working/dep-graph.part.bin",
     "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working",
     "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm.lock",
-    "DragonOS/kernel/target/debug/build/dragonos_kernel-920467340aebd98f/out/12473798677187629605detect_compiler_family.c",
     "DragonOS/pr_1826_issues_fixed_report.md",
     "Good/AI Infra.md",
     "Good/OCI规范_学习笔记.md",
@@ -246,7 +248,6 @@
     "暑期实习/脚本/loop.md",
     "暑期实习/脚本/cgroup.md",
     "暑期实习/脚本/AI Coding 工程治理实践指南.md",
-    "暑期实习/脚本/agent.md",
-    "Good/容器运行时_学习笔记.md"
+    "暑期实习/脚本/agent.md"
   ]
 }
