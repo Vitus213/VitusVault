@@ -13,27 +13,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暑期实习/脚本/八股拷打.md",
+                "file": "Notes/10-Daily/2026-04-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股拷打 的大纲"
+              "title": "2026-04-18 的大纲"
             }
           },
           {
-            "id": "5cbf338a82d54cf0",
+            "id": "bdc47d0071196774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暑期实习/面试问题整理/vivo-27届暑期-Rust嵌入式-一面-问题整理.md",
+                "file": "Notes/10-Daily/2026-04-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vivo-27届暑期-Rust嵌入式-一面-问题整理"
+              "title": "2026-04-18"
             }
           }
         ],
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211.5110321044922
   },
   "right": {
     "id": "e33de19f87d7b0a3",
@@ -211,12 +211,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cbf338a82d54cf0",
+  "active": "bdc47d0071196774",
   "lastOpenFiles": [
+    "Good/大模型训练基础知识.md",
+    "Notes/10-Daily/2026-04-18.md",
+    "Notes/10-Daily/2026-03-18.md",
+    "Good/attcahments/Pasted image 20260418230419.png",
+    "Good/attcahments/Pasted image 20260418231103.png",
+    "Good/attcahments/Pasted image 20260418231246.png",
+    "Good/attcahments/Pasted image 20260418231206.png",
+    "Bins/Templates/Daily Note.md",
+    "attcahments/Pasted.md",
+    "attcahments",
+    "Good/关于 Claude-Code.md",
+    "Good/vllm.md",
+    "Good/attcahments",
+    "Good/Pasted image 20260418182018.png",
+    "2026-04-19.md",
+    "Good/AI Infra.md",
+    "暑期实习/面试问题整理/vivo-27届暑期-Rust嵌入式-一面-问题整理.md",
+    "暑期实习/跨面试综合加强复盘报告.md",
     "暑期实习/面试录音复盘/vivo-27届暑期-rust嵌入式开发-hr面-分析复盘清单.md",
     "暑期实习/面试问题整理/vivo-27届暑期-rust嵌入式开发-hr面-问题整理.md",
     "暑期实习/面经/“vivo-rust 嵌入式开发-hr 面-2026-04-17 15-27-22”-转文本结果.txt",
-    "Good/vllm.md",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working/dep-graph.part.bin",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1.lock",
@@ -224,10 +241,7 @@
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc.lock",
     "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working/dep-graph.part.bin",
-    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working",
-    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm.lock",
     "DragonOS/pr_1826_issues_fixed_report.md",
-    "Good/AI Infra.md",
     "Good/OCI规范_学习笔记.md",
     "暑期实习/面经/华为.md",
     "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-二面-分析复盘清单.md",
@@ -239,15 +253,6 @@
     "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/华为-27届暑期-AI数据库-一面-分析复盘清单.md",
     "暑期实习/面试录音复盘/vivo-27届暑期-Rust嵌入式-一面-分析复盘清单.md",
-    "暑期实习/面经/淘天集团.md",
-    "暑期实习/面试问题整理/淘天-27届暑期-AI应用研发-一面-问题整理.md",
-    "暑期实习/面试录音复盘/腾讯-云架平-后台开发-一面-分析复盘清单.md",
-    "暑期实习/脚本/分布式.md",
-    "暑期实习/脚本/八股拷打.md",
-    "暑期实习/脚本/rust.md",
-    "暑期实习/脚本/loop.md",
-    "暑期实习/脚本/cgroup.md",
-    "暑期实习/脚本/AI Coding 工程治理实践指南.md",
-    "暑期实习/脚本/agent.md"
+    "暑期实习/面经/淘天集团.md"
   ]
 }

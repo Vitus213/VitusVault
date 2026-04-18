@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attcahments",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "autoConvertHtml": false,
