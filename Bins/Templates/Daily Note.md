@@ -35,7 +35,7 @@ color default
 
 > [!due-today]+ Due <% tp.file.title %>
 > ```tasks
-> due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
+> (due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>) OR (recurrence includes every day)
 > not done
 > hide due date
 > hide recurrence rule

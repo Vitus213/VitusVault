@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f0375e03df8d7466",
+        "id": "9d501cb2f26bfa85",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fbfb0f95931934",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/10-Daily/2026-04-18.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2026-04-18 的大纲"
-            }
-          },
-          {
-            "id": "bdc47d0071196774",
+            "id": "b16895e21006ed2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/10-Daily/2026-04-18.md",
+                "file": "暑期实习/AI Infra 速成学习文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-18"
+              "title": "AI Infra 速成学习文档"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,51 +192,52 @@
       "bases:新建数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "bdc47d0071196774",
+  "active": "b16895e21006ed2f",
   "lastOpenFiles": [
+    "暑期实习/面试问题整理/蚂蚁集团-27届暑期-AI基础设施工程-二面-问题整理.md",
+    "暑期实习/AI Infra 速成学习文档.md",
+    "Notes/10-Daily/2026-04-19.md",
+    "Good/vllm.md",
+    "Notes/10-Daily/2025-12-16.md",
+    "Good/容器运行时_学习笔记.md",
     "Good/大模型训练基础知识.md",
+    "Good/关于 Claude-Code.md",
+    "Excalidraw/Drawing 2026-04-19 14.29.16.excalidraw.md",
+    "暑期实习/跨面试综合加强复盘报告.md",
+    "未命名.base",
+    "AGENTS.md",
+    "2026-04-19.md",
+    "Excalidraw",
     "Notes/10-Daily/2026-04-18.md",
     "Notes/10-Daily/2026-03-18.md",
+    "Notes/10-Daily/2026-03-15.md",
+    "Notes/10-Daily/2026-03-14.md",
+    "Notes/10-Daily/2026-03-12.md",
+    "Notes/10-Daily/2026-01-08.md",
+    "Notes/10-Daily/2025-12-28.md",
+    "Notes/10-Daily/2025-12-25.md",
+    "Notes/10-Daily/2025-12-24.md",
+    "Notes/10-Daily/2025-12-23.md",
+    "Notes/10-Daily/2025-12-22.md",
+    "Notes/10-Daily/2025-12-20.md",
+    "Notes/10-Daily/2025-12-19.md",
+    "Good/AI Infra.md",
+    "Good/attcahments/Pasted image 20260418231246.png",
     "Good/attcahments/Pasted image 20260418230419.png",
     "Good/attcahments/Pasted image 20260418231103.png",
-    "Good/attcahments/Pasted image 20260418231246.png",
     "Good/attcahments/Pasted image 20260418231206.png",
-    "Bins/Templates/Daily Note.md",
-    "attcahments/Pasted.md",
     "attcahments",
-    "Good/关于 Claude-Code.md",
-    "Good/vllm.md",
     "Good/attcahments",
     "Good/Pasted image 20260418182018.png",
-    "2026-04-19.md",
-    "Good/AI Infra.md",
-    "暑期实习/面试问题整理/vivo-27届暑期-Rust嵌入式-一面-问题整理.md",
-    "暑期实习/跨面试综合加强复盘报告.md",
-    "暑期实习/面试录音复盘/vivo-27届暑期-rust嵌入式开发-hr面-分析复盘清单.md",
-    "暑期实习/面试问题整理/vivo-27届暑期-rust嵌入式开发-hr面-问题整理.md",
     "暑期实习/面经/“vivo-rust 嵌入式开发-hr 面-2026-04-17 15-27-22”-转文本结果.txt",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working/dep-graph.part.bin",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1-working",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-2hvxsq9ccn7lt/s-hhmm230hhc-0y9t6b1.lock",
     "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working/dep-graph.part.bin",
-    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working",
-    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc.lock",
-    "DragonOS/kernel/target/debug/incremental/unified_init_expand-0igv7prwrjpcn/s-hhmm22v9am-1x82nqm-working/dep-graph.part.bin",
-    "DragonOS/pr_1826_issues_fixed_report.md",
-    "Good/OCI规范_学习笔记.md",
-    "暑期实习/面经/华为.md",
-    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-二面-分析复盘清单.md",
-    "暑期实习/AI Infra 速成学习文档.md",
-    "暑期实习/面试录音复盘/淘天-27届暑期-AI应用研发-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/淘天-27届暑期-Agent应用研发-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/蚂蚁集团-27届暑期-AI基础设施工程-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/腾讯-WXG-后台开发-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/字节-27届暑期-国际支付后端-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/华为-27届暑期-AI数据库-一面-分析复盘清单.md",
-    "暑期实习/面试录音复盘/vivo-27届暑期-Rust嵌入式-一面-分析复盘清单.md",
-    "暑期实习/面经/淘天集团.md"
+    "DragonOS/kernel/target/debug/incremental/dragonos_kernel-32l8ldg7ag0a2/s-hhmm2306bt-0sl1kbc-working"
   ]
 }
